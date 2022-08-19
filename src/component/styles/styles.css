@@ -1,0 +1,21 @@
+.Title{
+    Color: #ffee00;
+    font-size : 2rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#fileToUpload{
+    font-size: 18px;
+    margin-left: 2%;
+}
+#Image{
+    width: 50%;
+    height: 60%;
+    position: absolute; 
+    bottom: 20%; 
+}
+.container{
+    display :flex;
+    flex-direction: row;
+    flex-basis: auto;
+}
