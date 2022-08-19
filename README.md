@@ -1,7 +1,7 @@
 # Link
 
 You can find the app by clicking [here](https://el1p2-aws-rekognition.herokuapp.com/). 
-If it doeesn't work, please try the local method by using all the source code given.
+If it doesn't work, please try the local method by using all the source code given.
 
 # Getting Started with Create React App
 
